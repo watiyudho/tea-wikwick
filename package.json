@@ -1,0 +1,22 @@
+{
+  "name": "tea-wikwick",
+  "version": "1.0.0",
+  "description": "MENYALA ABANGKUUU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watiyudho/tea-wikwick.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watiyudho/tea-wikwick/issues"
+  },
+  "homepage": "https://github.com/watiyudho/tea-wikwick#readme"
+}
